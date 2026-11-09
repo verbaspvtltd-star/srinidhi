@@ -1,4 +1,53 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://srinidhi-hospital.onrender.com/</loc><lastmod>2026-11-08</lastmod></url>\n  <url><loc>https://srinidhi-hospital.onrender.com/about.html</loc><lastmod>2026-11-08</lastmod></url>\n  <url><loc>https://srinidhi-hospital.onrender.com/doctors.html</loc><lastmod>2026-11-08</lastmod></url>\n  <url><loc>https://srinidhi-hospital.onrender.com/services.html</loc><lastmod>2026-11-08</lastmod></url>\n  <url><loc>https://srinidhi-hospital.onrender.com/patient-care.html</loc><lastmod>2026-11-08</lastmod></url>\n  <url><loc>https://srinidhi-hospital.onrender.com/gallery.html</loc><lastmod>2026-11-08</lastmod></url>\n  <url><loc>https://srinidhi-hospital.onrender.com/faq.html</loc><lastmod>2026-11-08</lastmod></url>\n  <url><loc>https://srinidhi-hospital.onrender.com/contact.html</loc><lastmod>2026-11-08</lastmod></url>
+
+    <url>
+        <loc>https://srinidhihospital.in/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://srinidhihospital.in/about.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://srinidhihospital.in/doctors.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://srinidhihospital.in/services.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://srinidhihospital.in/patient-care.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://srinidhihospital.in/gallery.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://srinidhihospital.in/faq.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://srinidhihospital.in/contact.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
 </urlset>
