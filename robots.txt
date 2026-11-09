@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srinidhi-hospital.onrender.com/sitemap.xml
